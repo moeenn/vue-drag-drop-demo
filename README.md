@@ -1,5 +1,8 @@
 # Sortable Drag Drop
-This is a demo Vue component which shows how to implement drag and drop sortable list.
+> This is a demo Vue component which shows how to implement drag and drop sortable list.
+
+## Screenshots
+![Screenshot](/screenshots/scrot.png)
 
 ## Build Setup
 
